@@ -23,7 +23,7 @@ I'm a passionate Electrical and Electronic Engineering undergraduate with a love
 
 - 🌱 I'm currently learning embedded systems 📟
 - 👯 I'm looking to collaborate embedded system projects
-- ⚡ Fun fact: I forgot anything within seconds 🥴
+- ⚡ Fun fact: I forgot anything within seconds 🥴😂
 
 ## 🛠️ Technologies & Tools
 
