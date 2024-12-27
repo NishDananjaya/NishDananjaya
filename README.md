@@ -21,8 +21,8 @@
 
 I'm a passionate Electrical and Electronic Engineering undergraduate with a love for Artificial intelligence related projects. I enjoy coding and am always eager to learn new technologies and methodologies.
 
-- 🌱 I'm currently embedded systems 📟
-- 👯 I'm looking to collaborate on ML and DL projects 
+- 🌱 I'm currently learning embedded systems 📟
+- 👯 I'm looking to collaborate embedded system projects
 - ⚡ Fun fact: I forgot anything within seconds 🥴
 
 ## 🛠️ Technologies & Tools
