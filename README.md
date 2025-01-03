@@ -4,13 +4,13 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6F9EE8&center=true&vCenter=true&random=false&width=435&lines=ML+%26+DL+Enthusiast;EEE+Undergraduate;Embedded+Systems+Developer)](https://git.io/typing-svg)
 
-<a href="https://linkedin.com/in/noshandananjayab">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://linkedin.com/in/nishandananjayab">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/NishDananjaya">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="mailto:your-email@example.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 </div>
 
-<div align="right" style="margin: 20px;">
+<div align="center" style="margin: 20px;">
   <img alt="Coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </div>
 
