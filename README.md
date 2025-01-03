@@ -58,7 +58,7 @@ const skills = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishDananjaya&layout=compact&theme=outrun&hide_border=true"/>
 </a>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NishDananjaya&theme=synthwave&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NishDananjaya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
