@@ -10,7 +10,9 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<div align="right" style="margin: 20px;">
+  <img alt="Coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+</div>
 
 ## 💫 About Me
 
