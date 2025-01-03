@@ -1,71 +1,84 @@
-<h1 align="center">👋 Hello, I'm Nishan Dananjaya</h1>
+# <div align="center">🚀 Nishan Dananjaya</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+ML+DL+Enthusiast;Always+learning+new+things&center=true&width=380&height=45">
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6F9EE8&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+%26+Deep+Learning+Enthusiast;Electrical+and+Electronic+Engineering+Student;Embedded+Systems+Developer)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://github.com/NishDananjaya">
-    <img src="https://img.shields.io/github/followers/NishDananjaya?label=Follow&style=social" alt="GitHub followers">
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/-NishanDananjaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noshandananjayab/" alt="LinkedIn">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noshandananjayab/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NishDananjaya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</p>
+</div>
 
-## 🚀 About Me
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-I'm a passionate Electrical and Electronic Engineering undergraduate with a love for Artificial intelligence related projects. I enjoy coding and am always eager to learn new technologies and methodologies.
+## 💫 About Me
 
-- 🌱 I'm currently learning embedded systems 📟
-- 👯 I'm looking to collaborate embedded system projects
-- ⚡ Fun fact: I forgot anything within seconds 🥴😂
+```python
+class NishDananjaya:
+    def __init__(self):
+        self.role = "EEE Undergraduate"
+        self.learning = "Embedded Systems"
+        self.interests = ["AI/ML", "IoT", "Robotics"]
+        self.fun_fact = "I forget anything within seconds 🤔"
+        
+    def current_projects(self):
+        return ["Smart IoT Systems", "ML Applications"]
+        
+    def skills(self):
+        return ["Python", "C++", "TensorFlow", "Arduino"]
+```
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Tools & Platforms
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  
+![Stats](https://github-readme-stats.vercel.app/api?username=NishDananjaya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishDananjaya&show_icons=true&theme=radical" alt="Nish Dananjaya's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishDananjaya&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishDananjaya&theme=radical" alt="Nish Dananjaya's GitHub Streak">
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishDananjaya&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/NishDananjaya)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishDananjaya&layout=compact&theme=radical" alt="Nish Dananjaya's Top Languages">
-</p>
+</div>
 
-## 🏆 GitHub Trophies
+## 🏆 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NishDananjaya&theme=darkhub&no-frame=true&margin-w=15" alt="Nish Dananjaya's Trophies">
-</p>
+<div align="center">
 
-## 📌 Pinned Repositories
+[![MCQ Generator](https://github-readme-stats.vercel.app/api/pin/?username=NishDananjaya&repo=MCQ_Generator&theme=tokyonight&hide_border=true)](https://github.com/NishDananjaya/MCQ_Generator)
+[![Gemini Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=NishDananjaya&repo=Gemini_chatbot_sinhala&theme=tokyonight&hide_border=true)](https://github.com/NishDananjaya/Gemini_chatbot_sinhala)
 
-<p align="center">
-  <a href="https://github.com/NishDananjaya/your-repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NishDananjaya&repo=MCQ_Generator&theme=radical" />
-  </a>
-  <a href="https://github.com/NishDananjaya/your-another-repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NishDananjaya&repo=Gemini_chatbot_sinhala&theme=radical" />
-  </a>
-</p>
+</div>
 
-## 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NishDananjaya&theme=react-dark" alt="Nish Dananjaya's Contribution Graph">
-</p>
+![](https://github-profile-trophy.vercel.app/?username=NishDananjaya&theme=tokyonight&no-frame=true&margin-w=4)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NishDananjaya&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ---
-
-<p align="center">⭐️ From [NishDananjaya](https://github.com/NishDananjaya)</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NishDananjaya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
