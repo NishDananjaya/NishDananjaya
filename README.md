@@ -1,12 +1,12 @@
-# <div align="center">🚀 Nishan Dananjaya</div>
+# <div align="center">⚡ Nishan Dananjaya</div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6F9EE8&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+%26+Deep+Learning+Enthusiast;Electrical+and+Electronic+Engineering+Student;Embedded+Systems+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6F9EE8&center=true&vCenter=true&random=false&width=435&lines=ML+%26+DL+Enthusiast;EEE+Undergraduate;Embedded+Systems+Developer)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noshandananjayab/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NishDananjaya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link)
+<a href="https://linkedin.com/in/noshandananjayab">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://github.com/NishDananjaya">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="mailto:your-email@example.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 </div>
 
@@ -14,50 +14,51 @@
 
 ## 💫 About Me
 
-```python
-class NishDananjaya:
-    def __init__(self):
-        self.role = "EEE Undergraduate"
-        self.learning = "Embedded Systems"
-        self.interests = ["AI/ML", "IoT", "Robotics"]
-        self.fun_fact = "I forget anything within seconds 🤔"
-        
-    def current_projects(self):
-        return ["Smart IoT Systems", "ML Applications"]
-        
-    def skills(self):
-        return ["Python", "C++", "TensorFlow", "Arduino"]
+```javascript
+const nishan = {
+    role: "EEE Undergraduate",
+    focus: ["Embedded Systems", "AI/ML"],
+    currentlyLearning: "IoT & Robotics",
+    funFact: "Memory like a goldfish 🐠"
+};
+
+const skills = {
+    languages: ["Python", "C++"],
+    frameworks: ["TensorFlow", "PyTorch"],
+    tools: ["Arduino", "RaspberryPi"],
+    interests: ["Smart Systems", "ML Applications"]
+};
 ```
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### Core
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 
-### Tools & Platforms
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 Analytics
 
 <div align="center">
   
-![Stats](https://github-readme-stats.vercel.app/api?username=NishDananjaya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishDananjaya&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://github.com/NishDananjaya">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NishDananjaya&show_icons=true&theme=outrun&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishDananjaya&layout=compact&theme=outrun&hide_border=true"/>
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishDananjaya&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/NishDananjaya)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NishDananjaya&theme=outrun&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
 </div>
 
@@ -65,20 +66,13 @@ class NishDananjaya:
 
 <div align="center">
 
-[![MCQ Generator](https://github-readme-stats.vercel.app/api/pin/?username=NishDananjaya&repo=MCQ_Generator&theme=tokyonight&hide_border=true)](https://github.com/NishDananjaya/MCQ_Generator)
-[![Gemini Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=NishDananjaya&repo=Gemini_chatbot_sinhala&theme=tokyonight&hide_border=true)](https://github.com/NishDananjaya/Gemini_chatbot_sinhala)
+[![MCQ Generator](https://github-readme-stats.vercel.app/api/pin/?username=NishDananjaya&repo=MCQ_Generator&theme=outrun&hide_border=true)](https://github.com/NishDananjaya/MCQ_Generator)
+[![Gemini Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=NishDananjaya&repo=Gemini_chatbot_sinhala&theme=outrun&hide_border=true)](https://github.com/NishDananjaya/Gemini_chatbot_sinhala)
 
 </div>
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=NishDananjaya&theme=tokyonight&no-frame=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=NishDananjaya&theme=radical&no-frame=true&row=1&column=7)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NishDananjaya&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NishDananjaya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NishDananjaya&theme=react-dark&hide_border=true&area=true" />
