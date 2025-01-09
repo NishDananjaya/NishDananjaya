@@ -55,7 +55,7 @@ const skills = {
 <div align="center">
 
 <a href="https://github.com/NishDananjaya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NishDananjaya&show_icons=true&theme=outrun&hide_border=true&include_all_commits=true&count_private=true"/>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NishDananjaya&layout=compact&theme=outrun&hide_border=true&show_icons=true&locale=en" alt="nishdananjaya" /></p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishDananjaya&layout=compact&theme=outrun&hide_border=true"/>
 </a>
 
