@@ -1,20 +1,57 @@
-<h1 align="center">Hi 👋, I'm Nishan</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishdananjaya&label=Profile%20views&color=0e75b6&style=flat" alt="nishdananjaya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishdananjaya" alt="nishdananjaya" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="test" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishdananjaya&show_icons=true&locale=en&layout=compact" alt="nishdananjaya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishdananjaya&show_icons=true&locale=en" alt="nishdananjaya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishdananjaya&" alt="nishdananjaya" /></p>
+# <div align="center">⚡ Nishan Dananjaya</div>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6F9EE8&center=true&vCenter=true&random=false&width=435&lines=ML+%26+DL+Enthusiast;EEE+Undergraduate;Embedded+Systems+Developer)](https://git.io/typing-svg)
+<a href="https://linkedin.com/in/nishandananjayab">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://github.com/NishDananjaya">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="mailto:your-email@example.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+</div>
+<div align="center" style="margin: 20px;">
+  <img alt="Coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+</div>
+## 💫 About Me
+```javascript
+const nishan = {
+    role: "EEE Undergraduate",
+    focus: ["Embedded Systems", "AI/ML"],
+    currentlyLearning: "IoT & Robotics",
+    funFact: "Memory like a goldfish 🐠"
+};
+const skills = {
+    languages: ["Python", "C++"],
+    frameworks: ["TensorFlow", "PyTorch"],
+    tools: ["Arduino", "RaspberryPi"],
+    interests: ["Smart Systems", "ML Applications"]
+};
+```
+## 🛠️ Tech Stack
+<div align="center">
+### Core
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+### Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+</div>
+## 📊 Analytics
+<div align="center">
+  
+<a href="https://github.com/NishDananjaya">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NishDananjaya&show_icons=true&theme=outrun&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishDananjaya&layout=compact&theme=outrun&hide_border=true"/>
+</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=NishDananjaya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</div>
+## 🏆 Featured Projects
+<div align="center">
+[![MCQ Generator](https://github-readme-stats.vercel.app/api/pin/?username=NishDananjaya&repo=MCQ_Generator&theme=outrun&hide_border=true)](https://github.com/NishDananjaya/MCQ_Generator)
+[![Gemini Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=NishDananjaya&repo=Gemini_chatbot_sinhala&theme=outrun&hide_border=true)](https://github.com/NishDananjaya/Gemini_chatbot_sinhala)
+</div>
+<div align="center">
+![](https://github-profile-trophy.vercel.app/?username=NishDananjaya&theme=radical&no-frame=true&row=1&column=7)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NishDananjaya&theme=react-dark&hide_border=true&area=true" />
