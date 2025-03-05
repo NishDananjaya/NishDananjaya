@@ -1,8 +1,11 @@
 # ⚡ Nishan Dananjaya
 
 <!-- Animated Typing Introduction -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=6F9EE8&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning+Enthusiast;Electrical+%26+Electronic+Engineering+Undergraduate;Innovative+Embedded+Systems+Developer)](https://git.io/typing-svg)
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=6F9EE8&center=true&vCenter=true&width=500&lines=Machine+Learning+%26+Deep+Learning+Enthusiast;Electrical+%26+Electronic+Engineering+Undergraduate;Innovative+Embedded+Systems+Developer" alt="Typing SVG" />
+  </a>
+</p>
 <!-- Social Media Badges with Hover Effects -->
 <p align="center">
   <a href="https://linkedin.com/in/nishandananjayab">
@@ -103,24 +106,3 @@ const skills = {
 
 <!-- Snake Contribution Graph -->
 ![Snake animation](https://github.com/NishDananjaya/NishDananjaya/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Visitor Counter -->
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/NishDananjaya/count.svg" />
-</p>
-
-<!-- Optional: Add some custom CSS for additional styling -->
-<style>
-  body {
-    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
-    color: #ffffff;
-  }
-  
-  a {
-    transition: all 0.3s ease;
-  }
-  
-  a:hover {
-    transform: scale(1.05);
-  }
-</style>
