@@ -1,34 +1,40 @@
-name: Generate Snake Animation
+name: Generate Snake Grid
 
-# Controls when the workflow will run
 on:
-  # Runs every 24 hours
-  schedule:
-    - cron: "0 0 * * *"
+  # Triggers the workflow on push and pull request events
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
   
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# Allows workflow to generate a snake grid from your contributions
+  # Runs every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: Generate Snake
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Grid
         uses: Platane/snk/svg-only@v3
         with:
-          # GitHub user name to read the contribution graph from
-          github_user_name: NishDananjaya
-          
-          # Path to store the generated snake grid
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      - name: Push Snake Grid to GitHub
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
