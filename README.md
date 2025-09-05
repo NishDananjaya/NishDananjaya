@@ -8,7 +8,7 @@
 </p>
 <!-- Social Media Badges with Hover Effects -->
 <p align="center">
-  <a href="https://linkedin.com/in/nishandananjayab">
+  <a href="https://www.linkedin.com/in/nishan-dananjayab/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" 
     onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
